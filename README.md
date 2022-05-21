@@ -14,6 +14,8 @@ Tras esto ganabamos acceso a /admin mediante el token modificado:
 ![imagen](https://user-images.githubusercontent.com/36164157/169660329-9c560516-aa2c-4025-85a5-a6db8492075b.png)
 
 Con esto sacábamos la 2da flag.
+
+
 Infructuosmanete se realizan las siguientes acciones:
 - Escaneo del sistema mediante Nessus, única vulnerabilidad acceso anonimo vía samba. No practicable.
 - Fuerzabruta sobre la funcionalidad wp.geohome.com/xmlrpc.php sobre el usuario geoadmin, con el objetivo de saltar las limitaciones y ganar acceso. Se consiguen listar todos los comandos pero no explotar el comando para consultar usuario.
