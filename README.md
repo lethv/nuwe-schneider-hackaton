@@ -21,3 +21,7 @@ Infructuosmanete se realizan las siguientes acciones:
 
 ![imagen](https://user-images.githubusercontent.com/36164157/169660028-eee76135-74e5-4417-b53e-033bc5a417db.png)
 
+Posible XSS en el plugin de elementor.
+
+En general los resultados han sido limitados, pero al tratarse de nuestro primer hackaton esperamos que nos sirva de experiencia para los proximos. Muchas gracias!
+
