@@ -5,7 +5,7 @@ Tras encontrar la página wp.geohome.com y conseguir acceso a ella mediante la m
 
 ![imagen](https://user-images.githubusercontent.com/36164157/169660163-c4ad6b7f-2434-485a-a68f-6fdb647fe142.png)
 
-Además de esto, se explicaba también el funcionamiento de la API, que nos permitia generar nuevos usuarios y obtener su token JWT para autenticarse. Con esto y la clave, podíamos generar un token, adaptarlo para que el usuario al que se refería fuese "admin" y firmarlo con la clave lekeada.
+Además de esto, se explicaba también el funcionamiento de la API, que nos permitia generar nuevos usuarios y obtener su token JWT para autenticarse. Con esto y la clave, podíamos generar un token, adaptarlo para que el usuario al que se refería fuese "admin" y firmarlo con la clave leakeada.
 
 ![imagen](https://user-images.githubusercontent.com/36164157/169660348-61febf4f-4563-40ba-a3f9-b1c9c722e3fd.png)
 
