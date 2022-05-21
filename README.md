@@ -18,7 +18,7 @@ Con esto sacábamos la 2da flag.
 
 Infructuosmanete se realizan las siguientes acciones:
 - Escaneo del sistema mediante Nessus, única vulnerabilidad acceso anonimo vía samba. No practicable.
-- Fuerzabruta sobre la funcionalidad wp.geohome.com/xmlrpc.php sobre el usuario geoadmin, con el objetivo de saltar las limitaciones y ganar acceso. Se consiguen listar todos los comandos pero no explotar el comando para consultar usuario.
+- Fuerza bruta sobre la funcionalidad wp.geohome.com/xmlrpc.php sobre el usuario geoadmin, con el objetivo de saltar las limitaciones y ganar acceso. Se consiguen listar todos los comandos pero no explotar el comando para consultar usuario.
 - Por último se realiza exploración sobre CMS, encontrando:
 
 ![imagen](https://user-images.githubusercontent.com/36164157/169660028-eee76135-74e5-4417-b53e-033bc5a417db.png)
