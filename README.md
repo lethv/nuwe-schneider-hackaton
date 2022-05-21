@@ -1,7 +1,7 @@
 # nuwe-schneider-hackaton
 
 Durante la realización del hackaton se han encontrado 2 flags.
-Tras encontrar la página wp.geohome.com y conseguir acceso a ella mediante la modificación de /etc/hosts se ha logrado acceso al github de desarrollo de geohome. En estos commits se encontraba la primera flag. Entre los commits se encontraba también la clave para validar la firma de tokens jwt.
+Tras encontrar la página wp.geohome.com y conseguir acceso a ella mediante la modificación de /etc/hosts se ha logrado acceso al github de desarrollo de geohome. En sus commits se encontraba la primera flag. Entre los commits se encontraba también la clave para validar la firma de tokens jwt.
 
 ![imagen](https://user-images.githubusercontent.com/36164157/169660163-c4ad6b7f-2434-485a-a68f-6fdb647fe142.png)
 
